@@ -34,4 +34,4 @@ const firstRound = (attackersMove, defendersMove) => {
 // Example usage
 const attackerMove = attackersChoice();
 const defenderMove = defendersChoice();
-console.log(firstRound(attackerMove, defenderMove));
+console.log(firstRound(attackerMove, defenderMove))
